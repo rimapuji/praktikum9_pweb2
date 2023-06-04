@@ -9,40 +9,23 @@ Kelas   : TI.21.A3
 ## output
 
 ```bash
-Output CRUD pada Praktikum 8 - Codeigniter seperti berikut ini:
+Output Praktikum 9: Framework Lanjutan (Modul Login)
 ```
 
-### Menu User
+### Halaman Login
 
-1. Tentang
+![1 login](https://github.com/rimapuji/praktikum9_pweb2/assets/118242692/7876481c-639e-429b-bfaa-fa796ab0001f)
+<hr>
 
-![about](images/about.png)
+### Validasi Login
 
-2. Artikel
+![2 validasi](https://github.com/rimapuji/praktikum9_pweb2/assets/118242692/affbe559-12d7-425a-9550-a5365ce76112)
+<hr>
 
-![article](images/aartikel.png)
+### Halaman Admin Artikel
+Setelah berhasil login, maka akan di arahkan ke halaman berikut:
 
-3. Detail 
+![3 adminartikel](https://github.com/rimapuji/praktikum9_pweb2/assets/118242692/a13e2a52-460c-41de-845d-883c8bbf9c6d)
+<hr>
 
-![detail](images/artikel-2.png)
-
-### Menu Admin
-
-1. Artikel-Admin
-
-![article admin](images/admin-artikel.png)
-
-2. Tambah Artikel
-
-![add article](images/add-artikel.png)
-
-3. Ubah Artikel
-
-![update article](images/ubah-artikel.png)
-
-4. Hapus Artikel
-
-![Delete Article](images/hapus-data.png)
-
-
-Terimkasih(●'◡'●)
+### Thank You (*^.^*)
